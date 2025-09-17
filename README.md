@@ -1,2 +1,2 @@
-# SDPSEP2025
-SDP September 2025 Ecommerce website 
+# Sep2025SDP-Ecommerce
+E-commerce website in September SDP
